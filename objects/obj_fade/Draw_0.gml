@@ -1,0 +1,1 @@
+draw_sprite_pscaled(pixel, 0, 0, 0, room_width, room_height, 0, image_blend, image_alpha);

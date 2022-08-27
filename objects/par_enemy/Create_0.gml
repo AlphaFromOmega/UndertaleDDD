@@ -1,0 +1,4 @@
+
+
+hp = maxHp;
+actSelected = noone;
